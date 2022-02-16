@@ -1,0 +1,148 @@
+@import "null.css";
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,900;1,700&display=swap');
+
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	padding: 0 3% 0 5% ;
+}
+
+body {
+	font-family: "Playfair+Display", sans-serif;
+	font-size: 20px;
+}
+
+header > h1{
+	font-size: 30px;
+	font-family: "Playfair Display", sans-serif;
+	font-weight: 900;
+	font-size: 40px;
+	text-align: center;
+	color: red;
+	margin: 0 0 15px 0;
+}
+
+.image {
+	width: 350px;
+	margin: 0 auto 20px auto;
+	display: block;
+}
+
+.menu {
+	font-family: "Playfair Display", sans-serif;
+	font-size: 20px;
+	color: darkred;
+	margin: 0 0 20px 0;
+	line-height: 35px;
+	text-align: center;
+}
+
+.menu li{
+	display: inline-block;
+	margin-left: 50px;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+h2 	{
+	font-family: "Playfair Display";
+	font-weight: 700;
+	font-style: italic;
+	font-size: 30px;
+	text-shadow: 10px 10px 30px rgb(69, 126, 57);
+	text-align: center;
+	color: green;
+	margin: 0 0 25px 0;
+	
+}
+
+p {
+	text-indent: 20px;
+}
+
+#section_0 {
+	font-family: "Playfair Display";
+	color:darkgreen;
+	font-size: 20px;
+	margin: 0 0 25px 0;
+	line-height: 25px;
+}
+
+.paragraph {
+	font-family: "Playfair Display";
+	color: coral;
+	margin: 0 0 25px 0;
+}
+
+.say {
+	font-family: "Playfair Display";
+	font-size: 18px;
+	text-transform: capitalize;
+	color: crimson;
+	line-height: 30px;
+	padding: 0 20px 0 70px;
+	margin: 0 0 25px 0;
+}
+
+.image2 {
+	width: 14%;
+	margin: 0 20px 0px 0;
+
+}
+.autor {
+	font-family: "Playfair Display";
+	text-align: justify;
+	color: chocolate;
+	line-height: 20px;
+	display: inline-block;
+	max-width: 83%;
+}
+
+.autor + p{
+	font-family: "Playfair Display";
+	text-align: justify;
+	color: chocolate;
+	line-height: 20px;
+	margin: 0 0 30px 0;
+}
+
+#link {
+	font-family: "Playfair Display";
+	color: cornflowerblue;
+	text-decoration: overline;
+	margin: 0 0 45px 0;
+	text-align: center;
+}
+
+footer {
+	font-family: "Playfair Display";
+	color: cadetblue;
+	text-shadow: 2px 1px 1px rgb(14, 121, 55);
+	margin: 0 0 40px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
